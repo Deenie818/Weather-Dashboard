@@ -1,0 +1,31 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+
+
+.h1 {
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 85%, rgba(0,212,255,1) 100%);
+}
